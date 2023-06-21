@@ -60,9 +60,6 @@
   color: #000000;
   font-size: 20px;
 }
-.title__content h1:hover {
-  color: #16f702;
-}
 
 /* //// child content */
 
@@ -89,6 +86,7 @@
 .child_other_images a {
   width: 100%;
 }
+
 .child_other_title {
   margin: 7px 0 0 10px;
   border-bottom: 1px solid silver;
@@ -98,9 +96,7 @@
   font-weight: 600;
   color: #000000;
 }
-.child_other_title a:hover {
-  color: #16f702;
-}
+
 .child_other_title label {
   font-size: 15px;
   color: rgb(20, 20, 216);
@@ -152,9 +148,6 @@
   line-height: 21px;
   color: #000000;
   margin: 0 0 15px 15px;
-}
-.card_title-title h4:hover {
-  color: #16f702;
 }
 .card_title-title .date {
   padding: 0px 0 0 15px;
