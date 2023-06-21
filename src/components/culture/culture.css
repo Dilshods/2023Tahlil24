@@ -164,6 +164,9 @@ a {
   line-height: 32px;
   color: #000000;
 }
+.single-header__title:hover {
+  color: #16f702;
+}
 
 h1,
 h2,

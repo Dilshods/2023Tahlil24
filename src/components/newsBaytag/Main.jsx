@@ -220,7 +220,7 @@ const Main = () => {
                 width="15px"
                 height="15px"
               />
-              <a href={`uz/importantnews`}>
+              <a href={`/uz/importantnews`}>
                 <h3 className="top__sider-title-text">Dolzarb xabarlar</h3>
               </a>
             </div>

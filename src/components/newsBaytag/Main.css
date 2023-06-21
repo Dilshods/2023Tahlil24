@@ -14,6 +14,10 @@ main {
 .sideContent {
   width: 20%;
 }
+.mainContent_tag {
+  width: 100%;
+  margin-right: 20px;
+}
 .sideContent .heading h6 {
   background-color: #000;
 }

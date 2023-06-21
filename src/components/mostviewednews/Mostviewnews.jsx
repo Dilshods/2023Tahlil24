@@ -116,7 +116,7 @@ const MostNewsViewed = () => {
             <section className="mainContent_tag">
               {newsContentPage.slice(0, 1).map((cat) => {
                 return (
-                  <div className="top_big-card_content">
+                  <div className="top_big-card_content_mostview ">
                     <div
                       id="big_card-news"
                       className="bag_tag_image"
