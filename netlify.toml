@@ -1,4 +1,4 @@
-[[redirect_uri"]]
+[[redirects"]]
 from = "/*"
 to = "/index.html"
 status = 200
