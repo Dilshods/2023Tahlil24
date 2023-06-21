@@ -95,7 +95,7 @@ const NewsContent = () => {
     <>
       <div className="container">
         <div className="nav_map">
-          <span className="">Bosh sahifa inportant</span>
+          <span className="">Bosh sahifa</span>
           <span className="arrow_icon">
             <svg
               stroke="currentColor"
